@@ -10,6 +10,17 @@
     assign in a storyboard or a .xib file. For example, when we want a
     cornerRadius property available in a Storyboard, we create a cornerRadius
     property inside our custom view and mark it with @IBInspectable.
+    
+## How to use ##
+    Connect your ResultTestView view to your viewcontroller from storyboard.
+    Update view dynamically whenever you need you set the values in viewDidLoad().
+
+    View attributes:
+        .scoredPoints: Int
+        .requiredPointsToPass: Int
+        .totalPoints: Int
+
+    The view will manage by itself moving the score views, updating score labels and other UI components.
 
 ## Preview ##
 
