@@ -13,7 +13,7 @@
     
 ## How to use ##
     Connect your ResultTestView view to your viewcontroller from storyboard.
-    Update view dynamically whenever you need you set the values in viewDidLoad().
+    Update view dynamically whenever you need or set the values in viewDidLoad().
 
     View attributes:
         .scoredPoints: Int
