@@ -1,5 +1,5 @@
 # DynamicComponentView #
-# Create your custom views faster with Interface Builder #
+## Create your custom views faster with Interface Builder ##
 
     @IBDesignable provides functionality for live rendering of changes
     of our custom views directly in a Storyboard or .xib. All we have to do
