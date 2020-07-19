@@ -19,7 +19,7 @@
         .totalPoints: Int
 
 ## How to ##
-    You must set ResultView width constraint so it can calculate in efficient way te shifts of progress bars. 
+    You must set ResultView width constraint so it can calculate in efficient way tte shifts of progress bars. 
 
 ## Preview ##
 
