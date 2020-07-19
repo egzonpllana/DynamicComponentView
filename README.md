@@ -5,6 +5,9 @@
     
     @IBInspectable allows us to create attributes in code that we can assign in a storyboard or a .xib file. For example, when we want a cornerRadius property available in a Storyboard, we create a cornerRadius property inside our custom view and mark it with @IBInspectable.
 
+## How to ##
+    You must set ResultView width constraint so it can calculate in efficient way te shifts of progress bars. 
+
 ## Preview ##
 
     <img width="1555" alt="Screen Shot 2020-07-13 at 11" src="https://user-images.githubusercontent.com/27929436/87292118-9e9d4400-c500-11ea-8304-b251162ea19e.png">
