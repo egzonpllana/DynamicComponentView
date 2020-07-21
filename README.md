@@ -27,7 +27,7 @@
 
 ## How to ##
     You must set ResultView width constraint so it can calculate in efficient 
-    way tte shifts of progress bars. 
+    way the shifts of progress bars. 
 
 ## Preview ##
 
