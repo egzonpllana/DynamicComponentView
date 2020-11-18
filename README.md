@@ -1,4 +1,6 @@
 # DynamicComponentView #
+<img width="1555" alt="Screen Shot 2020-07-13 at 11" src="https://user-images.githubusercontent.com/27929436/87292118-9e9d4400-c500-11ea-8304-b251162ea19e.png">
+
 # Create your custom views faster with Interface Builder #
 
     @IBDesignable provides functionality for live rendering of changes
@@ -30,8 +32,5 @@
     way the shifts of progress bars. 
 
 ## Preview ##
-
-<img width="1555" alt="Screen Shot 2020-07-13 at 11" src="https://user-images.githubusercontent.com/27929436/87292118-9e9d4400-c500-11ea-8304-b251162ea19e.png">
-
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/27929436/87292152-ab219c80-c500-11ea-9ac1-1ff33e6de5ee.gif)
+![app-live-preivew](https://user-images.githubusercontent.com/27929436/87292152-ab219c80-c500-11ea-9ac1-1ff33e6de5ee.gif)
 
